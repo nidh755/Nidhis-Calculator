@@ -1,0 +1,20 @@
+body{
+  background-color:purple;
+  color:navy;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculator{
+  background-color: #1e847f;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.row{
+  display: flex;
+  background-color:yellowgreen;
+}
